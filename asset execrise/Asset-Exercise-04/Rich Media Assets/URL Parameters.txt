@@ -1,0 +1,16 @@
+To add a blur to the image:
+&op_blur=30
+
+-------------------------------------------
+
+To change the width of the image:
+&wid=1000
+
+-------------------------------------------
+
+To add a gray overlay on the image:
+&layer=1&opac=40&bgColor=235,235,235
+
+-------------------------------------------
+
+

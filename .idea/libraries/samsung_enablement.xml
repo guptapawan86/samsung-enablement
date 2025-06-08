@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="samsung-enablement">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/skillup-headless-content.zip!/" />
+      <root url="jar://$PROJECT_DIR$/skillup-workflow-exercise.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
